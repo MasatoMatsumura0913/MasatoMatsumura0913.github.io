@@ -10,5 +10,9 @@
           "appID":"B24Q2CGSQ7.jp.buffalo.WebAxs",
           "paths":[ "*" ]
         }
+        {
+          "appID":"QRT27M57BK.jp.buffalo.WebAxs",
+          "paths":[ "*" ]
+        }
     }
 }
