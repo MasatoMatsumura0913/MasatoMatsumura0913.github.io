@@ -2,7 +2,7 @@
   "applinks": {
     "apps": [],
       "details": [
-        {
+	{
           "appID":"Y5AQHR5NQ3.jp.buffalo.WebAxs",
           "paths":[ "*" ]
         }
@@ -14,5 +14,6 @@
           "appID":"QRT27M57BK.jp.buffalo.WebAxs",
           "paths":[ "*" ]
         }
+       ]
     }
 }
