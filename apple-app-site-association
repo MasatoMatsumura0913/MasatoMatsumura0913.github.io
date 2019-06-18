@@ -4,7 +4,7 @@
       "details": [
 	{
           "appID":"B24Q2CGSQ7.jp.buffalo.WebAxs",
-          "paths":[ "*" ]
+          "paths":[ "/webaxs/*" ]
         }
        ]
     }
