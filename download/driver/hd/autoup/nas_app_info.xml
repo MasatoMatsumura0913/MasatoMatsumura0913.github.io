@@ -4,12 +4,14 @@
 	<size>249064</size>
 	<md5checksum>56e0a4a91ee639632a55ed4732dbd1a2</md5checksum>
 </nas_drive_preference_information>
+
 <nas_images_information>
 	<version>0.9.1</version>
 	<binary_url>https://masatomatsumura0913.github.io/buf-drv/hd/NASImages.zip</binary_url>
 	<size>23667769</size>
 	<md5checksum>0fcee415dcd92d66020ee2b0bb2ec1cd</md5checksum>
 </nas_images_information>
+
 <EIStrings_information>
 	<version>1.0.1</version>
 	<binary_url>https://masatomatsumura0913.github.io/buf-drv/hd/EIStrings.zip</binary_url>
