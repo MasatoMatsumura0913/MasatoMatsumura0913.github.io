@@ -1,22 +1,20 @@
 <nas_app_info>
 	<nas_drive_preference_information>
-		<version>1.0.7</version>
-		<binary_url>https://masatomatsumura0913.github.io/buf-drv/hd/NASDrivePreference.zip</binary_url>
-		<size>7798</size>
-		<md5checksum>487217017ca90d7e3e0bd0541898e4af</md5checksum>
+		<version>1.0.6</version>
+		<binary_url>https://p.buffalo.jp/buf-drv/hd/NASDrivePreference.zip</binary_url>
+		<size>7806</size>
+		<md5checksum>0347bb86d57e87e2d0ab3149c4c6c59b</md5checksum>
 	</nas_drive_preference_information>
 
 	<nas_images_information>
-		<version>0.9.1</version>
-		<binary_url>https://masatomatsumura0913.github.io/buf-drv/hd/NASImages.zip</binary_url>
-		<size>23691809</size>
-		<md5checksum>3049e1e60f53cc911b76f84de7452c146ba5d2b4</md5checksum>
+		<version>1.0.0</version>
+		<binary_url>https://p.buffalo.jp/buf-drv/hd/NASImages/1.0.0/</binary_url>
 	</nas_images_information>
 
 	<EIStrings_information>
-		<version>1.0.1</version>
-		<binary_url>https://masatomatsumura0913.github.io/buf-drv/hd/EIStrings.zip</binary_url>
-		<size>41481</size>
-		<md5checksum>1409854ec6342f6c06802afcc66fb112</md5checksum>
+		<version>1.0.2</version>
+		<binary_url>https://p.buffalo.jp/buf-drv/hd/EIStrings.zip</binary_url>
+		<size>41190</size>
+		<md5checksum>ca35e94c7a11b3d75360ae8065b4cc75</md5checksum>
 	</EIStrings_information>
 </nas_app_info>
