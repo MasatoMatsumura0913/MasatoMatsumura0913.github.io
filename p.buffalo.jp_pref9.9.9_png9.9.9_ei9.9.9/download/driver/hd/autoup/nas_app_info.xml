@@ -1,0 +1,20 @@
+<nas_app_info>
+	<nas_drive_preference_information>
+		<version>9.9.9</version>
+		<binary_url>https://p.buffalo.jp/buf-drv/hd/NASDrivePreference.zip</binary_url>
+		<size>7811</size>
+		<md5checksum>9a8e831c30e1d58e5700d941cb3bfff1</md5checksum>
+	</nas_drive_preference_information>
+
+	<nas_images_information>
+		<version>9.9.9</version>
+		<binary_url>https://p.buffalo.jp/buf-drv/hd/NASImages/9.9.9/</binary_url>
+	</nas_images_information>
+
+	<EIStrings_information>
+		<version>9.9.9</version>
+		<binary_url>https://p.buffalo.jp/buf-drv/hd/EIStrings.zip</binary_url>
+		<size>41469</size>
+		<md5checksum>ff46978ae5ec72efe1b6bfadaa2b49ef</md5checksum>
+	</EIStrings_information>
+</nas_app_info>
